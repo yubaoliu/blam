@@ -1,6 +1,6 @@
 - git:
     local-name: geometry_utils
-    uri: https://github.com/erik-nelson/geometry_utils.git
+    uri: https://github.com/yubaoliu/geometry_utils.git
     version: master
 - git:
     local-name: parameter_utils
